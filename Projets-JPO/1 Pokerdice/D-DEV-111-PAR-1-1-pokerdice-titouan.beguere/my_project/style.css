@@ -1,0 +1,334 @@
+::placeholder {
+  color: rgb(106, 233, 255);
+}
+.commencer {
+  font-family: 'Audiowide', cursive;
+  border-radius: 13px;
+  margin-top: 12.5px;
+  padding: 5px;
+  color: rgb(106, 233, 255);
+  border-color: rgb(255, 49, 238);
+  background: none;
+}
+
+
+#username {
+  position: absolute;
+  left: 27%;
+  top: 11.5%;
+}
+
+.scoreboard {
+  font-family: 'Audiowide', cursive;
+  background: none;
+  color: white;
+  border-style: none;
+}
+
+.scoreboard1 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 25px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard2 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 23px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard3 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 8px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+.scoreboard4 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 17px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard5 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 22px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard6 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 21px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard7 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  background: none;
+  color: rgb(255, 49, 238);
+  border-style: none;
+  font-size: 12px;
+}
+
+.scoreboard8 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 5px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard9 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 16px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard10 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 52px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard11 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 17px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard12 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 11px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard13 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 71px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard14 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  left: 79px;
+  background: none;
+  color: rgb(106, 233, 255);
+  border-style: none;
+}
+
+.scoreboard15 {
+  font-family: 'Audiowide', cursive;
+  width: 35px;
+  position: relative;
+  background: none;
+  color: rgb(255, 49, 238);
+  border-style: none;
+  font-size: 12px;
+}
+
+.scoreboard16 {
+  font-family: 'Audiowide', cursive;
+  background: none;
+  color: rgb(255, 49, 238);
+  border-style: none;
+  font-size: 20px;
+  margin-top: 20px;
+  white-space: nowrap;
+}
+
+.total {
+  position: relative;
+  left: 25%;
+  top: -22%;
+}
+
+.totaux {
+  font-size: 12px;
+  margin-top: 8px;
+}
+
+
+.entrance {
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 200px;
+}
+
+img {
+  width: 85px;
+}
+
+html {
+  color: white;
+  font-family: 'Audiowide', cursive;
+}
+
+
+
+.cinqdés {
+  position: relative;
+  left: 600px;
+}
+
+body {
+  background-image: url(img/background_vp.png);
+  background-size: cover;
+}
+
+.phaute {
+position : absolute ;
+width: 400px;
+height: 170px;
+left: 58%;
+top : 14.5%;
+}
+
+.pbasse{
+position: absolute;
+width: 400px;
+height: 220px;
+left: 58%;
+top: 41%;
+}
+
+img{
+  width: 73px;
+  margin: 3px;
+}
+
+.dés{
+position: absolute;
+margin-left: 10px;
+left: 27%;
+top: 24%;
+
+}
+
+.launch {
+  position: absolute;
+  left: 42%;
+}
+
+.yah{
+position: absolute;
+width: 15%;
+left: 540px;
+top : 20px;
+}
+
+.yah2 {
+position: absolute;
+width: 5%;
+left: 480px;
+top : 20px;
+}
+
+
+
+
+input {
+  font-weight: bold;
+  font-size: 17px;
+  margin-left: 10px;
+  color:black;
+  animation-name: example;
+  animation-duration: 4s;
+  padding: 1.5px;
+}
+
+.in2 {
+  position: absolute;
+  left : 145px;
+  color:#000000;
+  }
+.in2:hover {
+  color: black;
+}
+
+
+.footer {
+  position: absolute;
+  top: 74%;
+  left: 48%;
+}
+
+
+#new_player {
+  margin: 15px;
+  font-family: 'Audiowide', cursive;
+  border-radius: 13px;
+  padding: 5px;
+  color: rgb(106, 233, 255);
+  border-color: rgb(255, 49, 238);
+  background: none;
+}
+
+
+.bestscores {
+  position: absolute;
+  left: 37%;
+  top: 54%;
+}
+
+.finalscore {
+  position: absolute;
+  top: 10%;
+  width: 400px;
+  left: 39%;
+  font-size: 27px;
+}
+
+.help {
+  position: absolute;
+  top: -290%;
+  right: -360%;
+}
